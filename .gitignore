@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+
+scratch.ipynb
+
+.DS_Store
+
+*.pdf
+
+write.txt
+writeen.txt
+io.py
